@@ -1,4 +1,5 @@
 import React from "react";
+import { restaurants } from "../../data/restaurants";
 import Filter from "../common/filters/Filter";
 import "./delivery.css";
 import DeliveryCollections from "./deliveryCollections/DeliveryCollections";
@@ -34,6 +35,8 @@ const deliveryFilter = [
   },
 ];
 
+const restaurentList = restaurants;
+
 const Delivery = () => {
   return (
     <div>
@@ -42,7 +45,10 @@ const Delivery = () => {
       </div>
       <DeliveryCollections />
       <TopBrands />
-      <ExploreSection />
+      <ExploreSection
+        list={restaurentList}
+        collectionName="Delivery Restaurants in Hyderabad"
+      />
     </div>
   );
 };
