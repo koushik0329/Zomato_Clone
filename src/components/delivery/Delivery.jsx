@@ -1,6 +1,9 @@
 import React from "react";
 import Filter from "../common/filters/Filter";
 import "./delivery.css";
+import DeliveryCollections from "./deliveryCollections/DeliveryCollections";
+import TopBrands from "./topBrands/TopBrands";
+import ExploreSection from "../common/exploreSection/ExploreSection";
 
 const deliveryFilter = [
   {
@@ -37,6 +40,9 @@ const Delivery = () => {
       <div className="max-width">
         <Filter filterlist={deliveryFilter} />
       </div>
+      <DeliveryCollections />
+      <TopBrands />
+      <ExploreSection />
     </div>
   );
 };
