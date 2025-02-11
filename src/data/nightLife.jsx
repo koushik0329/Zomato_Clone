@@ -1,4 +1,4 @@
-export const nightLife = [
+export const night = [
   {
     type: "restaurant",
     info: {

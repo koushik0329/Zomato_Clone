@@ -1,5 +1,9 @@
 import React from "react";
 import "./nightLife.css";
+import Collection from "../common/collection/Collection";
+import Filter from "../common/filters/Filter";
+import ExploreSection from "../common/exploreSection/ExploreSection";
+import { night } from "../../data/nightLife";
 
 const nightFilters = [
   {
@@ -70,9 +74,20 @@ const collectionList = [
     places: "9 Places",
   },
 ];
-
+const nightLife = night;
 const NightLife = () => {
-  return <div>NightLife</div>;
+  return (
+    <div>
+      <Collection list={collectionList} />
+      <div className="max-width">
+        <Filter filterlist={nightFilters} />
+      </div>
+      <ExploreSection
+        list={nightLife}
+        collectionName="Nightlife Restaurants in Hyderabad"
+      />
+    </div>
+  );
 };
 
 export default NightLife;
