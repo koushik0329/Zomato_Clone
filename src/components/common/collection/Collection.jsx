@@ -19,7 +19,7 @@ const Collection = ({ list }) => {
         <div className="collection-subtitle-row">
           <div className="collection-subtitle-text">
             Explore curated lists of top restaurants, cafes, pubs, and bars in
-            Lucknow, based on trends
+            Hyderabad, based on trends
           </div>
           <div className="collection-location">
             <div>All collections in Hyderabad</div>
