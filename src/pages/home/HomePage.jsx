@@ -27,7 +27,7 @@ const getDifferentScreen = (tab) => {
       return <Delivery />;
     case "Dining Out":
       return <DiningOut />;
-    case "NightLife":
+    case "Night Life":
       return <NightLife />;
     default:
       return <Delivery />;

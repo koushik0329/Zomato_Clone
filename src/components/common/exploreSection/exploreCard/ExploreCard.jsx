@@ -51,7 +51,7 @@ const ExploreCard = ({ restaurant }) => {
             })}
           </div>
         )}
-        {approxPrice && <div className="approx-price">{approxPrice}</div>}
+        {approxPrice && <div className="res-price">{approxPrice}</div>}
       </div>
       {bottomContainers.length > 0 && (
         <div>
