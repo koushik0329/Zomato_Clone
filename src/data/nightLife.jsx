@@ -2,24 +2,24 @@ export const night = [
   {
     type: "restaurant",
     info: {
-      resId: 19463530,
-      name: "The Beer Cafe Biggie",
+      resId: 91808,
+      name: "Seasonal Tastes - The Westin",
       image: {
-        url: "https://b.zmtcdn.com/data/pictures/0/19463530/575a8965aeb1ff7d1b926438eee25830_featured_v2.jpg",
+        url: "https://b.zmtcdn.com/data/pictures/8/91808/a3f24199218554dbb5045c21d717d880_featured_v2.jpg",
         urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/0/19463530/575a8965aeb1ff7d1b926438eee25830_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+          "https://b.zmtcdn.com/data/pictures/8/91808/a3f24199218554dbb5045c21d717d880_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
       },
       o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/0/19463530/607835b4835149b4c2cb544b5420b9eb_o2_featured_v2.jpeg",
+        url: "https://b.zmtcdn.com/data/pictures/8/91808/9f44fcde5e825467cddd363d8a9008d1_o2_featured_v2.jpg",
       },
       rating: {
         has_fake_reviews: 0,
-        aggregate_rating: "4.0",
-        rating_text: "4.0",
+        aggregate_rating: "4.3",
+        rating_text: "4.3",
         rating_subtitle: "Very Good",
         rating_color: "5BA829",
-        votes: "126",
-        subtext: "REVIEWS",
+        votes: "1,976",
+        subtext: "REVIEW",
         is_new: false,
       },
       ratingNew: {
@@ -28,837 +28,133 @@ export const night = [
         ratings: {
           DINING: {
             rating_type: "DINING",
-            rating: "4.0",
-            reviewCount: "125",
-            reviewTextSmall: "125 Reviews",
-            subtext: "125 Dining Reviews",
+            rating: "4.4",
+            reviewCount: "1,752",
+            reviewTextSmall: "1,752 Reviews",
+            subtext: "1,752 Dining Reviews",
             color: "#1C1C1C",
-            ratingV2: "4.0",
+            ratingV2: "4.4",
             subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "1",
-            reviewTextSmall: "1 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,700 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Hazratganj, Lucknow",
-        address:
-          "Second Floor, Rohit House, Shahnajaf Road, Opposite Sahara Mall, Hazratganj, Lucknow",
-        localityUrl: "lucknow/hazratganj-restaurants",
-      },
-      timing: {
-        text: "Closes in 1 hour 26 minutes",
-        color: "#e5521f",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
-          name: "Italian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/pizza/",
-          name: "Pizza",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjZcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/lebanese/",
-          name: "Lebanese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,700 for two",
-      },
-    },
-    order: [],
-    gold: {
-      text: "Pro - Get 20% off",
-    },
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/the-beer-cafe-biggie-hazratganj/info",
-      clickActionDeeplink: "",
-    },
-    distance: "1.1 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19463530","element_type":"listing","rank":13}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/the-beer-cafe-biggie-hazratganj/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [
-      {
-        image: {
-          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
-          aspect_ratio: 2.66666666667,
-        },
-        text: "Follows all Max Safety measures for a safe dining experience",
-      },
-    ],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 19851199,
-      name: "Black Brew House",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/9/19851199/8e3d34b52ad67c45b0ed6bb43a376bc2_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/9/19851199/8e3d34b52ad67c45b0ed6bb43a376bc2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: false,
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "3.3",
-        rating_text: "NEW",
-        rating_subtitle: "Average",
-        rating_color: "CDD614",
-        votes: "14",
-        subtext: "REVIEWS",
-        is_new: true,
-      },
-      ratingNew: {
-        newlyOpenedObj: {
-          text: "Newly Opened",
-          color: "#FFFFFF",
-          bgColor: "#F4A266",
-          bgColorV2: {
-            type: "green",
-            tint: "100",
-          },
-          subtitle: "OUTLET",
-          ratingV2: "New",
-        },
-        suspiciousReviewObj: null,
-        ratings: [],
-      },
-      cft: {
-        text: "₹1,200 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Gomti Nagar, Lucknow",
-        address:
-          "15th & 16th Floor, Summit Building, Vibhuti Khand, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/gomti-nagar-restaurants",
-      },
-      timing: {
-        text: "Closes in 27 minutes",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/pasta/",
-          name: "Pasta",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/pizza/",
-          name: "Pizza",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
-          name: "Fast Food",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,200 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/black-brew-house-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "6.1 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19851199","element_type":"listing","rank":14}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/black-brew-house-gomti-nagar/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 19058715,
-      name: "Be The Beer Season 2",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/5/19058715/09b91edb2219ae78dcfbcfa7cbd3460a_o2_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/chains/7/801767/6382b981cc69b0b7ccda9c22aee6c9c0_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/5/19058715/09b91edb2219ae78dcfbcfa7cbd3460a_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.1",
-        rating_text: "4.1",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "258",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.1",
-            reviewCount: "247",
-            reviewTextSmall: "247 Reviews",
-            subtext: "247 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.1",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
+            sideSubTitle: "Dining Ratings",
             bgColorV2: {
               type: "green",
               tint: "700",
             },
+            newOnDining: false,
           },
           DELIVERY: {
             rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "11",
-            reviewTextSmall: "11 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,200 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Gomti Nagar, Lucknow",
-        address:
-          "19, 20, Rohtas Presidential Arcade, Vibhuti Khand, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/gomti-nagar-restaurants",
-      },
-      timing: {
-        text: "Closes in 1 hour 26 minutes",
-        color: "#e5521f",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
-          name: "Italian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzNcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/mexican/",
-          name: "Mexican",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,200 for two",
-      },
-    },
-    order: [],
-    gold: {
-      text: "Pro - Get 20% off",
-    },
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/be-the-beer-season-2-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "5.7 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19058715","element_type":"listing","rank":15}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/be-the-beer-season-2-gomti-nagar/book",
-      },
-      {
-        type: "chain_cta",
-        text: "View all outlets",
-        clickUrl: "/lucknow/restaurants/be-the-beer-1?category=3",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [
-      {
-        image: {
-          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
-          aspect_ratio: 2.66666666667,
-        },
-        text: "Follows all Max Safety measures for a safe dining experience",
-      },
-    ],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 801203,
-      name: "On High - Hotel Silvete",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/chains/3/801203/a473aec343876d74d7eff94322efc877_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/chains/3/801203/a473aec343876d74d7eff94322efc877_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/3/801203/df51bd1dff3997ad6f9a0de0365aeb0c_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.0",
-        rating_text: "4.0",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "5,783",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.0",
-            reviewCount: "272",
-            reviewTextSmall: "272 Reviews",
-            subtext: "272 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.0",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "4.0",
-            reviewCount: "5,511",
-            reviewTextSmall: "5,511 Reviews",
-            subtext: "5,511 Delivery Reviews",
+            rating: "4.1",
+            reviewCount: "224",
+            reviewTextSmall: "224 Reviews",
+            subtext: "224 Delivery Reviews",
             color: "#E23744",
-            ratingV2: "4.0",
+            ratingV2: "4.1",
             subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
+            sideSubTitle: "Delivery Ratings",
             bgColorV2: {
               type: "green",
-              tint: "600",
+              tint: "700",
             },
             newOnDelivery: false,
           },
         },
       },
       cft: {
-        text: "₹1,100 for two",
+        text: "₹4,000 for two",
       },
       cfo: {
-        text: "₹500 for one",
+        text: "₹1,600 for one",
       },
       locality: {
-        name: "Hazratganj, Lucknow",
-        address: "Hotel Silvete, 4 A, Rana Pratap Marg, Hazratganj, Lucknow",
-        localityUrl: "lucknow/hazratganj-restaurants",
+        name: "The Westin Hyderabad Mindspace, Hitech City, Hyderabad",
+        address:
+          "The Westin Mindspace, Survey 64, Building 15, K.Raheja IT Park, APIIC Software Layout, Hitech City, Hyderabad",
+        localityUrl:
+          "hyderabad/restaurants/in/the-westin-hyderabad-mindspace-hitech-city",
       },
       timing: {
-        text: "Opens tomorrow at 7am",
+        text: "Opens at 6:30am",
         color: "#ab000d",
       },
       cuisine: [
         {
           deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
+          url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
           name: "North Indian",
         },
         {
           deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/asian/",
+          name: "Asian",
+        },
+        {
+          deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
+          url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
           name: "Chinese",
         },
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
-          name: "Fast Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/mughlai/",
-          name: "Mughlai",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/bar-food/",
-          name: "Bar Food",
-        },
-        {
-          deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/salad/",
+          url: "https://www.zomato.com/hyderabad/restaurants/salad/",
           name: "Salad",
         },
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
+          url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
           name: "Beverages",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
+          name: "Desserts",
         },
       ],
       should_ban_ugc: false,
       costText: {
-        text: "₹1,100 for two",
+        text: "₹4,000 for two",
       },
     },
     order: [],
     gold: {
-      text: "Pro - Get 20% off",
+      instant: 15,
+      welcome_offer: false,
+      gold_offer: false,
+      text: "Flat",
+      offerValue: "15% OFF",
+      isGoldIcon: false,
     },
     takeaway: [],
     cardAction: {
       text: "",
-      clickUrl: "/lucknow/on-high-hotel-silvete-hazratganj/info",
+      clickUrl: "/hyderabad/seasonal-tastes-the-westin-hitech-city/info",
       clickActionDeeplink: "",
     },
-    distance: "1 km",
+    distance: "13.1 km",
     isPromoted: false,
     promotedText: "",
     trackingData: [
       {
         table_name: "zsearch_events_log",
         payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"801203","element_type":"listing","rank":16}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [
-      {
-        image: {
-          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
-          aspect_ratio: 2.66666666667,
-        },
-        text: "Follows all Max Safety measures for a safe dining experience",
-      },
-    ],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 801116,
-      name: "Jannat-Dayal Paradise",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/6/801116/78ac89e39e31b18b6209d5fce93a6d02_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/6/801116/78ac89e39e31b18b6209d5fce93a6d02_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/6/801116/aca44fa356685477ea737b32cf71006f_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "3.3",
-        rating_text: "3.3",
-        rating_subtitle: "Average",
-        rating_color: "CDD614",
-        votes: "773",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.0",
-            reviewCount: "742",
-            reviewTextSmall: "742 Reviews",
-            subtext: "742 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.0",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "2.6",
-            reviewCount: "31",
-            reviewTextSmall: "31 Reviews",
-            subtext: "31 Delivery Reviews",
-            color: "#E23744",
-            ratingV2: "2.6",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "yellow",
-              tint: "600",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,200 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Hotel Dayal Paradise, Gomti Nagar, Lucknow",
-        address: "CF-1, CF-2, Vipul Khand-5, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/restaurants/in/hotel-dayal-paradise-gomti-nagar",
-      },
-      timing: {
-        text: "Opens tomorrow at 1pm",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
-          name: "Italian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/continental/",
-          name: "Continental",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/finger-food/",
-          name: "Finger Food",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,200 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/jannat-dayal-paradise-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "4.7 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"801116","element_type":"listing","rank":17}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/jannat-dayal-paradise-gomti-nagar/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [
-      {
-        image: {
-          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
-          aspect_ratio: 2.66666666667,
-        },
-        text: "Follows all Max Safety measures for a safe dining experience",
-      },
-    ],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 19844315,
-      name: "BohoBar",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/5/19844315/fa8ff31f85c4a807759e004c7b9ae59f_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/5/19844315/fa8ff31f85c4a807759e004c7b9ae59f_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: false,
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "2.5",
-        rating_text: "NEW",
-        rating_subtitle: "Average",
-        rating_color: "FFBA00",
-        votes: "13",
-        subtext: "REVIEWS",
-        is_new: true,
-      },
-      ratingNew: {
-        newlyOpenedObj: {
-          text: "Newly Opened",
-          color: "#FFFFFF",
-          bgColor: "#F4A266",
-          bgColorV2: {
-            type: "green",
-            tint: "100",
-          },
-          subtitle: "OUTLET",
-          ratingV2: "New",
-        },
-        suspiciousReviewObj: null,
-        ratings: [],
-      },
-      cft: {
-        text: "₹1,100 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Gomti Nagar, Lucknow",
-        address:
-          "G 21, Ground Floor, Levana Cyber Heights, Vibhuti Khand, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/gomti-nagar-restaurants",
-      },
-      timing: {
-        text: "Closes in 27 minutes",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/asian/",
-          name: "Asian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
-          name: "Italian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/continental/",
-          name: "Continental",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/thai/",
-          name: "Thai",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,100 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/bohobar-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "6 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19844315","element_type":"listing","rank":18}',
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"91808","element_type":"listing","rank":10}',
         event_names: {
           tap: '{"action":"tap"}',
           impression: '{"action":"impression"}',
@@ -875,23 +171,814 @@ export const night = [
   {
     type: "restaurant",
     info: {
-      resId: 801247,
-      name: "Royal Cafe",
+      resId: 21392027,
+      name: "Hoist Bar & Kitchen",
       image: {
-        url: "https://b.zmtcdn.com/data/pictures/7/801247/114c3e1f87e06d7ae8410867a6693f6f_featured_v2.jpg",
+        url: "https://b.zmtcdn.com/data/pictures/7/21392027/9cc207312d82737d09e90d9a4f0497df_featured_v2.jpg",
         urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/7/801247/114c3e1f87e06d7ae8410867a6693f6f_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+          "https://b.zmtcdn.com/data/pictures/7/21392027/9cc207312d82737d09e90d9a4f0497df_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
       },
       o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/7/801247/5b36442e21fa8b1e53a5f5788d552128_o2_featured_v2.jpg",
+        url: "https://b.zmtcdn.com/data/pictures/7/21392027/a8862883baac920d34e6486b25dfaafb_o2_featured_v2.jpg",
       },
       rating: {
         has_fake_reviews: 0,
-        aggregate_rating: "4.1",
-        rating_text: "4.1",
+        aggregate_rating: "4.3",
+        rating_text: "4.3",
         rating_subtitle: "Very Good",
         rating_color: "5BA829",
-        votes: "1,496",
+        votes: "153",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.3",
+            reviewCount: "153",
+            reviewTextSmall: "153 Reviews",
+            subtext: "153 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.3",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDining: false,
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "0",
+            reviewTextSmall: "0 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "100",
+            },
+            textColorV2: {
+              type: "green",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹2,400 for two",
+      },
+      cfo: {
+        text: "₹1,000 for one",
+      },
+      locality: {
+        name: "Banjara Hills, Hyderabad",
+        address:
+          "Plot 217, Park View Enclave, Near TDP Office, Road 2, Banjara Hills, Hyderabad",
+        localityUrl: "hyderabad/banjara-hills-restaurants",
+      },
+      timing: {
+        text: "Opens at 12noon",
+        color: "#ab000d",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/bar-food/",
+          name: "Bar Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/japanese/",
+          name: "Japanese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/asian/",
+          name: "Asian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/pasta/",
+          name: "Pasta",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹2,400 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/hyderabad/hoist-bar-kitchen-banjara-hills/info",
+      clickActionDeeplink: "",
+    },
+    distance: "8.5 km",
+    isPromoted: true,
+    promotedText: "Promoted",
+    trackingData: [
+      {
+        table_name: "jadtracking",
+        payload:
+          '{"banner_id":"7469339","bzone":"0","campaign_id":"16437936","category_id":"1","location_type":"city","location_id":"6","display_page":"dineout_home","entity_type":"RESTAURANT","entity_id":"21392027","isNewAd":"34","ad_position":"11","slider_position":"11","slider_sequence":"11","creative_id":"0","collection_id":"0","data":"{\\"type\\":\\"boost\\",\\"original_rank\\":86,\\"boosted_rank\\":11,\\"ordering_parameter_value\\":{\\"ads_ctr\\":\\"0.024901\\",\\"cost_for_two_ctr\\":\\"0\\",\\"distance\\":\\"8.496935844421387\\",\\"organic_ctr\\":\\"0.005814\\",\\"popularity_score\\":\\"0\\",\\"popularity_score_source\\":\\"default\\",\\"target_left\\":\\"1227\\"},\\"ordering_parameter_normalised_value\\":{\\"ads_ctr\\":\\"0.5423187480038326\\",\\"cost_for_two_ctr\\":\\"0\\",\\"cost_per_unit\\":\\"0.8567103935418767\\",\\"distance\\":\\"0.9672043296149403\\",\\"organic_ctr\\":\\"0\\",\\"popularity_score\\":\\"0\\",\\"target_left\\":\\"0.48303393213572854\\"},\\"search_id\\":\\"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f\\",\\"section_name\\":\\"more\\",\\"total_score\\":0.5117589915120248}","subzone_id":"0"}',
+        event_names: {
+          tap: '{"action":"click"}',
+          impression: '{"action":"impression"}',
+          served: '{"action":"serve"}',
+        },
+      },
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"21392027","element_type":"listing","rank":11,"metadata":{"is_ad":"true"}}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 21219332,
+      name: "One8 Commune",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/2/21219332/e06f41e2ba898caad0888f553e175601_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/2/21219332/e06f41e2ba898caad0888f553e175601_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: false,
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "779",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.2",
+            reviewCount: "779",
+            reviewTextSmall: "779 Reviews",
+            subtext: "779 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.2",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDining: false,
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "0",
+            reviewTextSmall: "0 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "100",
+            },
+            textColorV2: {
+              type: "green",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,500 for two",
+      },
+      cfo: {
+        text: "₹600 for one",
+      },
+      locality: {
+        name: "Hitech City, Hyderabad",
+        address: "One 8 Commune, 1St Floor, The Loft, Hitech City, Hyderabad",
+        localityUrl: "hyderabad/hitech-city-restaurants",
+      },
+      timing: {
+        text: "Opens at 12noon",
+        color: "#ab000d",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzhcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/european/",
+          name: "European",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
+          name: "Desserts",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,500 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/hyderabad/one8-commune-hitech-city/info",
+      clickActionDeeplink: "",
+    },
+    distance: "12.4 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"21219332","element_type":"listing","rank":12}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18629270,
+      name: "Vivaha Bhojanambu",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/0/18629270/05d5c34817dac54e8abcb629cca81823_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/0/18629270/05d5c34817dac54e8abcb629cca81823_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/0/18629270/b225b15615e79decffe2dd91040ad6fc_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "11.1K",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.2",
+            reviewCount: "2,120",
+            reviewTextSmall: "2,120 Reviews",
+            subtext: "2,120 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.2",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDining: false,
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.2",
+            reviewCount: "9,026",
+            reviewTextSmall: "9,026 Reviews",
+            subtext: "9,026 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.2",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,400 for two",
+      },
+      cfo: {
+        text: "₹600 for one",
+      },
+      locality: {
+        name: "Railway Station Road, Secunderabad",
+        address:
+          "Shop 12, Ground Floor Eden Square, Sangeet X Roads, Regimental Bazaar Road, Railway Station Road, Secunderabad",
+        localityUrl: "hyderabad/railway-station-road-restaurants",
+      },
+      timing: {
+        text: "Opens at 12noon",
+        color: "#ab000d",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMlwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/andhra/",
+          name: "Andhra",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/biryani/",
+          name: "Biryani",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/south-indian/",
+          name: "South Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,400 for two",
+      },
+    },
+    order: [],
+    gold: {
+      instant: 10,
+      welcome_offer: false,
+      gold_offer: false,
+      text: "Flat",
+      offerValue: "10% OFF",
+      isGoldIcon: false,
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl:
+        "/hyderabad/vivaha-bhojanambu-railway-station-road-secunderabad/info",
+      clickActionDeeplink: "",
+    },
+    distance: "8.8 km",
+    isPromoted: true,
+    promotedText: "Promoted",
+    trackingData: [
+      {
+        table_name: "jadtracking",
+        payload:
+          '{"banner_id":"7563200","bzone":"0","campaign_id":"16532075","category_id":"1","location_type":"city","location_id":"6","display_page":"dineout_home","entity_type":"RESTAURANT","entity_id":"18629270","isNewAd":"34","ad_position":"13","slider_position":"13","slider_sequence":"13","creative_id":"0","collection_id":"0","data":"{\\"type\\":\\"boost\\",\\"original_rank\\":55,\\"boosted_rank\\":13,\\"ordering_parameter_value\\":{\\"ads_ctr\\":\\"0.032068\\",\\"cost_for_two_ctr\\":\\"0\\",\\"distance\\":\\"8.447443962097168\\",\\"organic_ctr\\":\\"0.080625\\",\\"popularity_score\\":\\"0\\",\\"popularity_score_source\\":\\"default\\",\\"target_left\\":\\"590\\"},\\"ordering_parameter_normalised_value\\":{\\"ads_ctr\\":\\"0.828449377195784\\",\\"cost_for_two_ctr\\":\\"0\\",\\"cost_per_unit\\":\\"0\\",\\"distance\\":\\"1\\",\\"organic_ctr\\":\\"0.7356987618869669\\",\\"popularity_score\\":\\"0\\",\\"target_left\\":\\"0.22874251497005987\\"},\\"search_id\\":\\"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f\\",\\"section_name\\":\\"more\\",\\"total_score\\":0.48995728006081357}","subzone_id":"0"}',
+        event_names: {
+          tap: '{"action":"click"}',
+          impression: '{"action":"impression"}',
+          served: '{"action":"serve"}',
+        },
+      },
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18629270","element_type":"listing","rank":13,"metadata":{"is_ad":"true"}}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 21084944,
+      name: "AnTeRa Courtyard",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/4/21084944/f3ae0a3860b86f52416b10be02e9d88b_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/4/21084944/f3ae0a3860b86f52416b10be02e9d88b_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/4/21084944/1ae1481d627fe7ff187742c9954144fe_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.4",
+        rating_text: "4.4",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "4,581",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.4",
+            reviewCount: "2,831",
+            reviewTextSmall: "2,831 Reviews",
+            subtext: "2,831 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.4",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDining: false,
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.3",
+            reviewCount: "1,750",
+            reviewTextSmall: "1,750 Reviews",
+            subtext: "1,750 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.3",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,600 for two",
+      },
+      cfo: {
+        text: "₹650 for one",
+      },
+      locality: {
+        name: "Financial District, Hyderabad",
+        address:
+          "Survey 251/8/E/1, 251/4 Vattinagulapally Village, Financial District, Hyderabad",
+        localityUrl: "hyderabad/financial-district-restaurants",
+      },
+      timing: {
+        text: "Opens at 12noon",
+        color: "#ab000d",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/south-indian/",
+          name: "South Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/kebab/",
+          name: "Kebab",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/biryani/",
+          name: "Biryani",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
+          name: "Desserts",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,600 for two",
+      },
+    },
+    order: [],
+    gold: {
+      instant: 10,
+      welcome_offer: false,
+      gold_offer: false,
+      text: "Flat",
+      offerValue: "10% OFF",
+      isGoldIcon: false,
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/hyderabad/antera-courtyard-financial-district/info",
+      clickActionDeeplink: "",
+    },
+    distance: "16.6 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"21084944","element_type":"listing","rank":14}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18808521,
+      name: "Krishnapatnam",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/1/18808521/9f666524cd884ca4cbee928660946de8_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/1/18808521/9f666524cd884ca4cbee928660946de8_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/1/18808521/28f2282eba1397e35947750a5ef6523a_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "7,739",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.3",
+            reviewCount: "5,845",
+            reviewTextSmall: "5,845 Reviews",
+            subtext: "5,845 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.3",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDining: false,
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.0",
+            reviewCount: "1,894",
+            reviewTextSmall: "1,894 Reviews",
+            subtext: "1,894 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.0",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,300 for two",
+      },
+      cfo: {
+        text: "₹550 for one",
+      },
+      locality: {
+        name: "Road 36, Jubilee Hills, Hyderabad",
+        address: "3rd Floor, Shreshta Aura, Road 36, Jubilee Hills, Hyderabad",
+        localityUrl: "hyderabad/restaurants/in/road-36-jubilee-hills",
+      },
+      timing: {
+        text: "Opens at 12noon",
+        color: "#ab000d",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMlwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/andhra/",
+          name: "Andhra",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/sea-food/",
+          name: "Seafood",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/biryani/",
+          name: "Biryani",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,300 for two",
+      },
+    },
+    order: [],
+    gold: {
+      instant: 10,
+      welcome_offer: false,
+      gold_offer: false,
+      text: "Flat",
+      offerValue: "10% OFF",
+      isGoldIcon: false,
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/hyderabad/krishnapatnam-jubilee-hills/info",
+      clickActionDeeplink: "",
+    },
+    distance: "9.9 km",
+    isPromoted: true,
+    promotedText: "Promoted",
+    trackingData: [
+      {
+        table_name: "jadtracking",
+        payload:
+          '{"banner_id":"7629981","bzone":"0","campaign_id":"16600333","category_id":"1","location_type":"city","location_id":"6","display_page":"dineout_home","entity_type":"RESTAURANT","entity_id":"18808521","isNewAd":"34","ad_position":"15","slider_position":"15","slider_sequence":"15","creative_id":"0","collection_id":"0","data":"{\\"type\\":\\"boost\\",\\"original_rank\\":15,\\"boosted_rank\\":15,\\"ordering_parameter_value\\":{\\"ads_ctr\\":\\"0.030865\\",\\"cost_for_two_ctr\\":\\"0\\",\\"distance\\":\\"9.948033332824707\\",\\"organic_ctr\\":\\"0.107501\\",\\"popularity_score\\":\\"0\\",\\"popularity_score_source\\":\\"default\\",\\"target_left\\":\\"2522\\"},\\"ordering_parameter_normalised_value\\":{\\"ads_ctr\\":\\"0.7804215905461513\\",\\"cost_for_two_ctr\\":\\"0\\",\\"cost_per_unit\\":\\"1\\",\\"distance\\":\\"0.005638256728370252\\",\\"organic_ctr\\":\\"1\\",\\"popularity_score\\":\\"0\\",\\"target_left\\":\\"1\\"},\\"search_id\\":\\"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f\\",\\"section_name\\":\\"more\\",\\"total_score\\":0.4242752093624197}","subzone_id":"0"}',
+        event_names: {
+          tap: '{"action":"click"}',
+          impression: '{"action":"impression"}',
+          served: '{"action":"serve"}',
+        },
+      },
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18808521","element_type":"listing","rank":15,"metadata":{"is_ad":"true"}}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 20953447,
+      name: "Luno - Lounge Bar & Kitchen",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/7/20953447/d88a75b2468e5b1b683f71661cd5fb94_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/7/20953447/d88a75b2468e5b1b683f71661cd5fb94_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/7/20953447/f3463ed236d15b8fe79146efb7548364_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "1,637",
         subtext: "REVIEW",
         is_new: false,
       },
@@ -902,685 +989,18 @@ export const night = [
           DINING: {
             rating_type: "DINING",
             rating: "4.2",
-            reviewCount: "897",
-            reviewTextSmall: "897 Reviews",
-            subtext: "897 Dining Reviews",
+            reviewCount: "1,637",
+            reviewTextSmall: "1,637 Reviews",
+            subtext: "1,637 Dining Reviews",
             color: "#1C1C1C",
             ratingV2: "4.2",
             subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
+            sideSubTitle: "Dining Ratings",
             bgColorV2: {
               type: "green",
               tint: "700",
             },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "3.9",
-            reviewCount: "599",
-            reviewTextSmall: "599 Reviews",
-            subtext: "599 Delivery Reviews",
-            color: "#E23744",
-            ratingV2: "3.9",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,500 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Royal Inn, Hazratganj, Lucknow",
-        address: "9/7, Shahnajaf Road, Hazratganj, Lucknow",
-        localityUrl: "lucknow/restaurants/in/royal-inn-hazratganj",
-      },
-      timing: {
-        text: "Closes in 27 minutes",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/pizza/",
-          name: "Pizza",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/mughlai/",
-          name: "Mughlai",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/desserts/",
-          name: "Desserts",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/biryani/",
-          name: "Biryani",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,500 for two",
-      },
-    },
-    order: [],
-    gold: {
-      text: "Pro - Get 10% off",
-    },
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/royal-cafe-5-hazratganj/info",
-      clickActionDeeplink: "",
-    },
-    distance: "1.1 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"801247","element_type":"listing","rank":19}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 19870055,
-      name: "Sky Glass Brewing Co.",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/5/19870055/11028dcc5011e661b28be4a2c36bb911_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/5/19870055/11028dcc5011e661b28be4a2c36bb911_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: false,
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "3.4",
-        rating_text: "NEW",
-        rating_subtitle: "Average",
-        rating_color: "CDD614",
-        votes: "12",
-        subtext: "REVIEWS",
-        is_new: true,
-      },
-      ratingNew: {
-        newlyOpenedObj: {
-          text: "Newly Opened",
-          color: "#FFFFFF",
-          bgColor: "#F4A266",
-          bgColorV2: {
-            type: "green",
-            tint: "100",
-          },
-          subtitle: "OUTLET",
-          ratingV2: "New",
-        },
-        suspiciousReviewObj: null,
-        ratings: [],
-      },
-      cft: {
-        text: "₹1,500 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Gomti Nagar, Lucknow",
-        address: "S38, 2nd Floor, Phoenix Palassio Mall, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/gomti-nagar-restaurants",
-      },
-      timing: {
-        text: "Closes in 27 minutes",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
-          name: "Italian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
-          name: "Fast Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/desserts/",
-          name: "Desserts",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,500 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/sky-glass-brewing-co-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "5.2 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19870055","element_type":"listing","rank":20}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 801640,
-      name: "Underdoggs Bar & Grill",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/0/801640/a57b5379c70a5b7dec89df436c6f152d_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/0/801640/a57b5379c70a5b7dec89df436c6f152d_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/0/801640/08a148ec865551e4aa483107d4919ffa_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.3",
-        rating_text: "4.3",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "785",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.3",
-            reviewCount: "771",
-            reviewTextSmall: "771 Reviews",
-            subtext: "771 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.3",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "700",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "14",
-            reviewTextSmall: "14 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,300 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "City Mall, Gomti Nagar, Lucknow",
-        address: "Floor 4, City Mall, Vipul Khand 4, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/restaurants/in/city-mall-gomti-nagar",
-      },
-      timing: {
-        text: "Closes in 1 hour 26 minutes",
-        color: "#e5521f",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/mediterranean/",
-          name: "Mediterranean",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
-          name: "Italian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMVwiXX0iXQ%3D%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/american/",
-          name: "American",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,300 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/underdoggs-bar-grill-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "4.3 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"801640","element_type":"listing","rank":21}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 18625751,
-      name: "Elev8 Book Cafe - Hotel Levana Suites",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/1/18625751/98da140e7e6ca0f91c0581a52b6898e2_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/1/18625751/98da140e7e6ca0f91c0581a52b6898e2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/1/18625751/1c21115584717da167207f31f3f1e99c_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.0",
-        rating_text: "4.0",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "291",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.0",
-            reviewCount: "288",
-            reviewTextSmall: "288 Reviews",
-            subtext: "288 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.0",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "3",
-            reviewTextSmall: "3 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,200 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Hazratganj, Lucknow",
-        address: "18, Madan Mohan Malviya Marg, Hazratganj, Lucknow",
-        localityUrl: "lucknow/hazratganj-restaurants",
-      },
-      timing: {
-        text: "Closes in 1 hour 26 minutes",
-        color: "#e5521f",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
-          name: "Fast Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/finger-food/",
-          name: "Finger Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,200 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/elev8-book-cafe-hotel-levana-suites-hazratganj/info",
-      clickActionDeeplink: "",
-    },
-    distance: "993 m",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18625751","element_type":"listing","rank":22}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 18868910,
-      name: "Bombay Brasserie",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/0/18868910/bcb34c8eec95b3d3bff8c0e7338cc949_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/0/18868910/bcb34c8eec95b3d3bff8c0e7338cc949_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/0/18868910/c1b8dd3d95aea1f67340b5aa2c490979_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.4",
-        rating_text: "4.4",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "716",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.6",
-            reviewCount: "605",
-            reviewTextSmall: "605 Reviews",
-            subtext: "605 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.6",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "800",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "4.1",
-            reviewCount: "111",
-            reviewTextSmall: "111 Reviews",
-            subtext: "111 Delivery Reviews",
-            color: "#E23744",
-            ratingV2: "4.1",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "700",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,500 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Gomti Nagar, Lucknow",
-        address:
-          "003, Ground Floor, Rohtas Summit, Vibhuti Khand, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/gomti-nagar-restaurants",
-      },
-      timing: {
-        text: "",
-        color: "",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/modern-indian/",
-          name: "Modern Indian",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,500 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/bombay-brasserie-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "6.1 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18868910","element_type":"listing","rank":23}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/bombay-brasserie-gomti-nagar/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 18159999,
-      name: "Sky Bar - Renaissance Lucknow Hotel",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/9/18159999/33b00192ce3104a2c6bba27710055025_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/9/18159999/33b00192ce3104a2c6bba27710055025_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: false,
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.2",
-        rating_text: "4.2",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "466",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.2",
-            reviewCount: "466",
-            reviewTextSmall: "466 Reviews",
-            subtext: "466 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.2",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "700",
-            },
+            newOnDining: false,
           },
           DELIVERY: {
             rating_type: "DELIVERY",
@@ -1591,690 +1011,14 @@ export const night = [
             color: "",
             ratingV2: "-",
             subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
+            sideSubTitle: "Delivery Ratings",
             bgColorV2: {
-              type: "grey",
+              type: "green",
+              tint: "100",
+            },
+            textColorV2: {
+              type: "green",
               tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹3,000 for two",
-      },
-      cfo: {
-        text: "₹500 for one",
-      },
-      locality: {
-        name: "Renaissance Lucknow Hotel, Lucknow",
-        address:
-          "Renaissance Lucknow Hotel, 16th Floor, Vipin Khand, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/restaurants/in/renaissance-lucknow-hotel",
-      },
-      timing: {
-        text: "Opens on Monday at 5pm",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/finger-food/",
-          name: "Finger Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
-          name: "Fast Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹3,000 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/sky-bar-renaissance-lucknow-hotel-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "2092.7 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18159999","element_type":"listing","rank":24}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/sky-bar-renaissance-lucknow-hotel-gomti-nagar/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-
-  {
-    type: "restaurant",
-    info: {
-      resId: 18550429,
-      name: "Grand Cabana - Hotel Savvy Grand",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/9/18550429/9c8fffbf4b060fc5d3d60f92e7b8fb26_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/9/18550429/9c8fffbf4b060fc5d3d60f92e7b8fb26_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/9/18550429/b22af80764e2f4e0d30c8703897ea2bb_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.2",
-        rating_text: "4.2",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "619",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.2",
-            reviewCount: "565",
-            reviewTextSmall: "565 Reviews",
-            subtext: "565 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.2",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "700",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "4.2",
-            reviewCount: "54",
-            reviewTextSmall: "54 Reviews",
-            subtext: "54 Delivery Reviews",
-            color: "#E23744",
-            ratingV2: "4.2",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "700",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,000 for two",
-      },
-      cfo: {
-        text: "₹400 for one",
-      },
-      locality: {
-        name: "Gomti Nagar, Lucknow",
-        address: "11-A, Vibhuti Khand, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/gomti-nagar-restaurants",
-      },
-      timing: {
-        text: "Closes in 1 hour 26 minutes",
-        color: "#e5521f",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,000 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/grand-cabana-hotel-savvy-grand-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "4.6 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18550429","element_type":"listing","rank":25}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 18553847,
-      name: "EDGE - Rooftop Bar & Lounge",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/7/18553847/056178323b64589ad21b995dbb153787_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/7/18553847/056178323b64589ad21b995dbb153787_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: false,
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "3.9",
-        rating_text: "3.9",
-        rating_subtitle: "Good",
-        rating_color: "9ACD32",
-        votes: "71",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "3.9",
-            reviewCount: "71",
-            reviewTextSmall: "71 Reviews",
-            subtext: "71 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "3.9",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "0",
-            reviewTextSmall: "0 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹400 for two",
-      },
-      cfo: {
-        text: "₹400 for one",
-      },
-      locality: {
-        name: "Novotel, Gomti Nagar, Lucknow",
-        address: "CP-74,Viraj Khand, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/restaurants/in/novotel-gomti-nagar",
-      },
-      timing: {
-        text: "Closes in 27 minutes",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/finger-food/",
-          name: "Finger Food",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹400 for two",
-      },
-    },
-    order: [],
-    gold: {
-      text: "Pro - Get 20% off",
-    },
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/edge-rooftop-bar-lounge-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "7.4 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18553847","element_type":"listing","rank":26}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/edge-rooftop-bar-lounge-gomti-nagar/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 801195,
-      name: "Cappuccino Blast",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/5/801195/c13c76338537c2ed3bfdf656aa0c7f43_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/5/801195/c13c76338537c2ed3bfdf656aa0c7f43_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/chains/6/800576/cb5ad4303e47f17072e9ee02fe8b6cbe_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "3.8",
-        rating_text: "3.8",
-        rating_subtitle: "Good",
-        rating_color: "9ACD32",
-        votes: "337",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "3.9",
-            reviewCount: "260",
-            reviewTextSmall: "260 Reviews",
-            subtext: "260 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "3.9",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "3.6",
-            reviewCount: "77",
-            reviewTextSmall: "77 Reviews",
-            subtext: "77 Delivery Reviews",
-            color: "#E23744",
-            ratingV2: "3.6",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹700 for two",
-      },
-      cfo: {
-        text: "₹400 for one",
-      },
-      locality: {
-        name: "Aishbagh, Lucknow",
-        address: "73-A, Mill Road, Industrial Area, Aishbagh, Lucknow",
-        localityUrl: "lucknow/aishbagh-restaurants",
-      },
-      timing: {
-        text: "Closes in 27 minutes",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
-          name: "Fast Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/pizza/",
-          name: "Pizza",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/pasta/",
-          name: "Pasta",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/desserts/",
-          name: "Desserts",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹700 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/cappuccino-blast-aishbagh/info",
-      clickActionDeeplink: "",
-    },
-    distance: "5.3 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"801195","element_type":"listing","rank":27}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "chain_cta",
-        text: "View all outlets",
-        clickUrl: "/lucknow/restaurants/cappuccino-blast?category=3",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 19091558,
-      name: "The Beer Cafe",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/8/19091558/3e8946bae5d6458ab9b07d4f2a1dc78a_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/8/19091558/3e8946bae5d6458ab9b07d4f2a1dc78a_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/8/19091558/1f5dd55550afa65f615128358140e155_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "3.7",
-        rating_text: "3.7",
-        rating_subtitle: "Good",
-        rating_color: "9ACD32",
-        votes: "42",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "3.7",
-            reviewCount: "35",
-            reviewTextSmall: "35 Reviews",
-            subtext: "35 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "3.7",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "7",
-            reviewTextSmall: "7 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,200 for two",
-      },
-      cfo: {
-        text: "₹400 for one",
-      },
-      locality: {
-        name: "Gomti Nagar, Lucknow",
-        address:
-          "005, Ground Floor, Rohtas Summit, Vibhuti Khand, Gomti Nagar, Lucknow, 226018",
-        localityUrl: "lucknow/gomti-nagar-restaurants",
-      },
-      timing: {
-        text: "Opens tomorrow at 12noon",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/finger-food/",
-          name: "Finger Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
-          name: "Italian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/continental/",
-          name: "Continental",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/pasta/",
-          name: "Pasta",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,200 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/the-beer-cafe-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "6.2 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19091558","element_type":"listing","rank":28}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 800273,
-      name: "Urban Terrace",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/chains/3/800273/a32b3b0726fa49b7dfd7ec4fbdd36ec4_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/chains/3/800273/a32b3b0726fa49b7dfd7ec4fbdd36ec4_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/chains/3/800273/91b4754c97c4f5ed1903ade4932b34bd_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.3",
-        rating_text: "4.3",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "806",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.2",
-            reviewCount: "480",
-            reviewTextSmall: "480 Reviews",
-            subtext: "480 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.2",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "700",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "4.3",
-            reviewCount: "326",
-            reviewTextSmall: "326 Reviews",
-            subtext: "326 Delivery Reviews",
-            color: "#E23744",
-            ratingV2: "4.3",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "700",
             },
             newOnDelivery: false,
           },
@@ -2284,220 +1028,103 @@ export const night = [
         text: "₹1,100 for two",
       },
       cfo: {
-        text: "₹400 for one",
+        text: "₹450 for one",
       },
       locality: {
-        name: "Lineage Hotels, Gomti Nagar, Lucknow",
+        name: "Financial District, Hyderabad",
         address:
-          "Hotel Lineage CP-73, Viraj Khand,Gomtinagar,Near Sahara Hospital Gate No-2 Lucknow",
-        localityUrl: "lucknow/restaurants/in/lineage-hotels-gomti-nagar",
+          "Survey 237, 252, Vattinagulapally, Circle 11, Financial District, Hyderabad",
+        localityUrl: "hyderabad/financial-district-restaurants",
       },
       timing: {
-        text: "Closes in 27 minutes",
+        text: "Opens at 12noon",
         color: "#ab000d",
       },
       cuisine: [
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/mughlai/",
-          name: "Mughlai",
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
+          name: "North Indian",
         },
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
+          url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
           name: "Chinese",
         },
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
-          name: "Italian",
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/sushi/",
+          name: "Sushi",
         },
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/continental/",
-          name: "Continental",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,100 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/urban-terrace-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "7.4 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"800273","element_type":"listing","rank":29}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 19007115,
-      name: "The Vault Disc And Lounge",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/5/19007115/f6dc83bb34f957c23d4ab9886bf9c303_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/5/19007115/f6dc83bb34f957c23d4ab9886bf9c303_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: false,
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "3.5",
-        rating_text: "3.5",
-        rating_subtitle: "Good",
-        rating_color: "9ACD32",
-        votes: "89",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "3.5",
-            reviewCount: "89",
-            reviewTextSmall: "89 Reviews",
-            subtext: "89 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "3.5",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "500",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "0",
-            reviewTextSmall: "0 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹2,200 for two",
-      },
-      cfo: {
-        text: "₹400 for one",
-      },
-      locality: {
-        name: "Khurram Nagar, Lucknow",
-        address:
-          "Main Ring Road, Hotel Vijay Paradise, Vikas Nagar, Khurram Nagar, Lucknow",
-        localityUrl: "lucknow/khurram-nagar-restaurants",
-      },
-      timing: {
-        text: "Closes in 27 minutes",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/continental/",
-          name: "Continental",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/pizza/",
+          name: "Pizza",
         },
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
+          url: "https://www.zomato.com/hyderabad/restaurants/fast-food/",
           name: "Fast Food",
         },
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/bar-food/",
+          url: "https://www.zomato.com/hyderabad/restaurants/bar-food/",
           name: "Bar Food",
         },
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/asian/",
+          name: "Asian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
+          name: "Desserts",
         },
       ],
       should_ban_ugc: false,
       costText: {
-        text: "₹2,200 for two",
+        text: "₹1,100 for two",
       },
     },
     order: [],
-    gold: [],
+    gold: {
+      instant: 10,
+      welcome_offer: false,
+      gold_offer: false,
+      text: "Flat",
+      offerValue: "10% OFF",
+      isGoldIcon: false,
+    },
     takeaway: [],
     cardAction: {
       text: "",
-      clickUrl: "/lucknow/the-vault-disc-and-lounge-khurram-nagar/info",
+      clickUrl: "/hyderabad/luno-lounge-bar-kitchen-financial-district/info",
       clickActionDeeplink: "",
     },
-    distance: "4.2 km",
+    distance: "16.4 km",
     isPromoted: false,
     promotedText: "",
     trackingData: [
       {
         table_name: "zsearch_events_log",
         payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19007115","element_type":"listing","rank":30}',
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"20953447","element_type":"listing","rank":16}',
         event_names: {
           tap: '{"action":"tap"}',
           impression: '{"action":"impression"}',
         },
       },
     ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/the-vault-disc-and-lounge-khurram-nagar/book",
-      },
-    ],
+    allCTA: [],
     promoOffer: "",
     checkBulkOffers: false,
     bulkOffers: [],
@@ -2507,162 +1134,15 @@ export const night = [
   {
     type: "restaurant",
     info: {
-      resId: 801693,
-      name: "Bar Bar - Hotel India Awadh",
+      resId: 21469238,
+      name: "Connect",
       image: {
-        url: "https://b.zmtcdn.com/data/pictures/chains/3/801693/767aa3f776cd94b978227523eac17d59_featured_v2.jpg",
+        url: "https://b.zmtcdn.com/data/pictures/8/21469238/a32c171b27fa2bc46ea1457ca675d9f8_featured_v2.jpg",
         urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/chains/3/801693/767aa3f776cd94b978227523eac17d59_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+          "https://b.zmtcdn.com/data/pictures/8/21469238/a32c171b27fa2bc46ea1457ca675d9f8_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
       },
       o2FeaturedImage: {
         url: false,
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.2",
-        rating_text: "4.2",
-        rating_subtitle: "Very Good",
-        rating_color: "5BA829",
-        votes: "452",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.2",
-            reviewCount: "452",
-            reviewTextSmall: "452 Reviews",
-            subtext: "452 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.2",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "700",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "0",
-            reviewTextSmall: "0 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,500 for two",
-      },
-      cfo: {
-        text: "₹400 for one",
-      },
-      locality: {
-        name: "Hotel India Awadh, Hazratganj, Lucknow",
-        address: "Hotel India Awadh, 4, Sapru Marg, Hazratganj, Lucknow",
-        localityUrl: "lucknow/restaurants/in/hotel-india-awadh-hazratganj",
-      },
-      timing: {
-        text: "Opens tomorrow at 10am",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/cafes/",
-          name: "Cafe",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/thai/",
-          name: "Thai",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/continental/",
-          name: "Continental",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,500 for two",
-      },
-    },
-    order: [],
-    gold: [],
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/bar-bar-hotel-india-awadh-hazratganj/info",
-      clickActionDeeplink: "",
-    },
-    distance: "1.3 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"801693","element_type":"listing","rank":31}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/bar-bar-hotel-india-awadh-hazratganj/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 18610092,
-      name: "Ttamaasha Bistro Bar",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/2/18610092/6a8b695bade8d45687cbd7e30ebb6145_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/2/18610092/6a8b695bade8d45687cbd7e30ebb6145_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/2/18610092/dc092e5921d077441c6dfcda635a4079_o2_featured_v2.jpeg",
       },
       rating: {
         has_fake_reviews: 0,
@@ -2670,7 +1150,7 @@ export const night = [
         rating_text: "4.1",
         rating_subtitle: "Very Good",
         rating_color: "5BA829",
-        votes: "474",
+        votes: "20",
         subtext: "REVIEWS",
         is_new: false,
       },
@@ -2681,17 +1161,18 @@ export const night = [
           DINING: {
             rating_type: "DINING",
             rating: "4.1",
-            reviewCount: "474",
-            reviewTextSmall: "474 Reviews",
-            subtext: "474 Dining Reviews",
+            reviewCount: "20",
+            reviewTextSmall: "20 Reviews",
+            subtext: "20 Dining Reviews",
             color: "#1C1C1C",
             ratingV2: "4.1",
             subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
+            sideSubTitle: "Dining Ratings",
             bgColorV2: {
               type: "green",
               tint: "700",
             },
+            newOnDining: false,
           },
           DELIVERY: {
             rating_type: "DELIVERY",
@@ -2702,9 +1183,13 @@ export const night = [
             color: "",
             ratingV2: "-",
             subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
+            sideSubTitle: "Delivery Ratings",
             bgColorV2: {
-              type: "grey",
+              type: "green",
+              tint: "100",
+            },
+            textColorV2: {
+              type: "green",
               tint: "500",
             },
             newOnDelivery: false,
@@ -2712,69 +1197,108 @@ export const night = [
         },
       },
       cft: {
-        text: "₹2,200 for two",
+        text: "₹1,000 for two",
       },
       cfo: {
         text: "₹400 for one",
       },
       locality: {
-        name: "Gomti Nagar, Lucknow",
-        address: "4th Floor, Wave Mall, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/gomti-nagar-restaurants",
+        name: "Jubilee Hills, Hyderabad",
+        address: "3rd Floor, MLA Colony, Road 92, Jubilee Hills, Hyderabad",
+        localityUrl: "hyderabad/jubilee-hills-restaurants",
       },
       timing: {
-        text: "Closes in 1 hour 26 minutes",
-        color: "#e5521f",
+        text: "Opens at 12noon",
+        color: "#ab000d",
       },
       cuisine: [
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/italian/",
+          url: "https://www.zomato.com/hyderabad/restaurants/italian/",
           name: "Italian",
         },
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/asian/",
+          name: "Asian",
         },
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
-          name: "Fast Food",
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
+          name: "Beverages",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/modern-indian/",
+          name: "Modern Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/sushi/",
+          name: "Sushi",
         },
       ],
       should_ban_ugc: false,
       costText: {
-        text: "₹2,200 for two",
+        text: "₹1,000 for two",
       },
     },
     order: [],
     gold: {
-      text: "Pro - Get 20% off",
+      instant: 15,
+      welcome_offer: false,
+      gold_offer: false,
+      text: "Flat",
+      offerValue: "15% OFF",
+      isGoldIcon: false,
     },
     takeaway: [],
     cardAction: {
       text: "",
-      clickUrl: "/lucknow/ttamaasha-bistro-bar-gomti-nagar/info",
+      clickUrl: "/hyderabad/connect-jubilee-hills/info",
       clickActionDeeplink: "",
     },
-    distance: "4.6 km",
-    isPromoted: false,
-    promotedText: "",
+    distance: "8.5 km",
+    isPromoted: true,
+    promotedText: "Promoted",
     trackingData: [
+      {
+        table_name: "jadtracking",
+        payload:
+          '{"banner_id":"7517941","bzone":"0","campaign_id":"16486810","category_id":"1","location_type":"city","location_id":"6","display_page":"dineout_home","entity_type":"RESTAURANT","entity_id":"21469238","isNewAd":"34","ad_position":"17","slider_position":"17","slider_sequence":"17","creative_id":"0","collection_id":"0","data":"{\\"type\\":\\"boost\\",\\"original_rank\\":122,\\"boosted_rank\\":17,\\"ordering_parameter_value\\":{\\"ads_ctr\\":\\"0.020332\\",\\"cost_for_two_ctr\\":\\"0\\",\\"distance\\":\\"8.605819702148438\\",\\"organic_ctr\\":\\"0.007953\\",\\"popularity_score\\":\\"0\\",\\"popularity_score_source\\":\\"default\\",\\"target_left\\":\\"17\\"},\\"ordering_parameter_normalised_value\\":{\\"ads_ctr\\":\\"0.3599089747684445\\",\\"cost_for_two_ctr\\":\\"0\\",\\"cost_per_unit\\":\\"0.6730575176589302\\",\\"distance\\":\\"0.8950527172580454\\",\\"organic_ctr\\":\\"0.021035137234848116\\",\\"popularity_score\\":\\"0\\",\\"target_left\\":\\"0\\"},\\"search_id\\":\\"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f\\",\\"section_name\\":\\"more\\",\\"total_score\\":0.4059373168033799}","subzone_id":"0"}',
+        event_names: {
+          tap: '{"action":"click"}',
+          impression: '{"action":"impression"}',
+          served: '{"action":"serve"}',
+        },
+      },
       {
         table_name: "zsearch_events_log",
         payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18610092","element_type":"listing","rank":32}',
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"21469238","element_type":"listing","rank":17,"metadata":{"is_ad":"true"}}',
         event_names: {
           tap: '{"action":"tap"}',
           impression: '{"action":"impression"}',
@@ -2791,15 +1315,15 @@ export const night = [
   {
     type: "restaurant",
     info: {
-      resId: 800603,
-      name: "Theka - The Piccadily",
+      resId: 21240405,
+      name: "Daily Rituals",
       image: {
-        url: "https://b.zmtcdn.com/data/pictures/chains/3/800603/3090e78a5858e43a2722566f975a9819_featured_v2.jpg",
+        url: "https://b.zmtcdn.com/data/pictures/5/21240405/6202ea1afd562f343106dcceb69ad1fe_featured_v2.jpg",
         urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/chains/3/800603/3090e78a5858e43a2722566f975a9819_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+          "https://b.zmtcdn.com/data/pictures/5/21240405/6202ea1afd562f343106dcceb69ad1fe_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
       },
       o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/3/800603/8144efc6b49496d055898f4f96aa44f9_o2_featured_v2.jpg",
+        url: "https://b.zmtcdn.com/data/pictures/5/21240405/3c6f1c6970d83f9ce36a2284fed31aca_o2_featured_v2.jpg",
       },
       rating: {
         has_fake_reviews: 0,
@@ -2807,8 +1331,8 @@ export const night = [
         rating_text: "4.0",
         rating_subtitle: "Very Good",
         rating_color: "5BA829",
-        votes: "165",
-        subtext: "REVIEWS",
+        votes: "1,922",
+        subtext: "REVIEW",
         is_new: false,
       },
       ratingNew: {
@@ -2817,97 +1341,132 @@ export const night = [
         ratings: {
           DINING: {
             rating_type: "DINING",
-            rating: "4.0",
-            reviewCount: "165",
-            reviewTextSmall: "165 Reviews",
-            subtext: "165 Dining Reviews",
+            rating: "4.5",
+            reviewCount: "1,912",
+            reviewTextSmall: "1,912 Reviews",
+            subtext: "1,912 Dining Reviews",
             color: "#1C1C1C",
-            ratingV2: "4.0",
+            ratingV2: "4.5",
             subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
+            sideSubTitle: "Dining Ratings",
             bgColorV2: {
               type: "green",
-              tint: "600",
+              tint: "800",
             },
+            newOnDining: false,
           },
           DELIVERY: {
             rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "0",
-            reviewTextSmall: "0 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
+            rating: "3.4",
+            reviewCount: "10",
+            reviewTextSmall: "10 Reviews",
+            subtext: "10 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.4",
             subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
+            sideSubTitle: "Delivery Ratings",
             bgColorV2: {
-              type: "grey",
-              tint: "500",
+              type: "yellow",
+              tint: "400",
             },
             newOnDelivery: false,
           },
         },
       },
       cft: {
-        text: "₹2,700 for two",
+        text: "₹1,300 for two",
       },
       cfo: {
-        text: "₹400 for one",
+        text: "₹550 for one",
       },
       locality: {
-        name: "The Piccadily Lucknow, Alambagh, Lucknow",
+        name: "Jubilee Hills, Hyderabad",
         address:
-          "The Piccadily Lucknow, Ground Floor, Bara Birva, Kanpur Road, Alambagh, Lucknow",
-        localityUrl: "lucknow/restaurants/in/the-piccadily-lucknow-alambagh",
+          "D.8-2-293/82/A/1181, Plot 1181, Sy.403/1 (Old), 120 (New), Road 45, Phase-1, Co-op House Building Society Ltd, Jubilee Hills, Hyderabad",
+        localityUrl: "hyderabad/jubilee-hills-restaurants",
       },
       timing: {
-        text: "Closes in 27 minutes",
+        text: "Opens at 12noon",
         color: "#ab000d",
       },
       cuisine: [
         {
           deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDlcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/hyderabadi/",
+          name: "Hyderabadi",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/bar-food/",
+          name: "Bar Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/asian/",
+          name: "Asian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/south-indian/",
+          name: "South Indian",
+        },
+        {
+          deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/finger-food/",
+          url: "https://www.zomato.com/hyderabad/restaurants/finger-food/",
           name: "Finger Food",
         },
       ],
       should_ban_ugc: false,
       costText: {
-        text: "₹2,700 for two",
+        text: "₹1,300 for two",
       },
     },
     order: [],
-    gold: {
-      text: "Pro - Get 20% off",
-    },
+    gold: [],
     takeaway: [],
     cardAction: {
       text: "",
-      clickUrl: "/lucknow/theka-piccadily-alambagh/info",
+      clickUrl: "/hyderabad/daily-rituals-jubilee-hills/info",
       clickActionDeeplink: "",
     },
-    distance: "9.1 km",
+    distance: "10.1 km",
     isPromoted: false,
     promotedText: "",
     trackingData: [
       {
         table_name: "zsearch_events_log",
         payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"800603","element_type":"listing","rank":33}',
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"21240405","element_type":"listing","rank":18}',
         event_names: {
           tap: '{"action":"tap"}',
           impression: '{"action":"impression"}',
         },
       },
     ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/theka-piccadily-alambagh/book",
-      },
-    ],
+    allCTA: [],
     promoOffer: "",
     checkBulkOffers: false,
     bulkOffers: [],
@@ -2917,321 +1476,22 @@ export const night = [
   {
     type: "restaurant",
     info: {
-      resId: 18574816,
-      name: "Orchid - Fortune Park BBD",
+      resId: 19822960,
+      name: "Fly - Feel The High",
       image: {
-        url: "https://b.zmtcdn.com/data/pictures/6/18574816/7b35c85922598324498c7bfe703258b1_featured_v2.jpg",
+        url: "https://b.zmtcdn.com/data/pictures/0/19822960/47e1feae973b01002e7a8b95dd53f1f1_featured_v2.jpg",
         urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/6/18574816/7b35c85922598324498c7bfe703258b1_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+          "https://b.zmtcdn.com/data/pictures/0/19822960/47e1feae973b01002e7a8b95dd53f1f1_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
       },
       o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/6/18574816/a2ad0976c5c49155cc10654d66be5349_o2_featured_v2.jpg",
+        url: "https://b.zmtcdn.com/data/pictures/0/19822960/bcf9680c6e8dd3af7fb1fb049b696351_o2_featured_v2.jpg",
       },
       rating: {
         has_fake_reviews: 0,
-        aggregate_rating: "3.9",
-        rating_text: "3.9",
-        rating_subtitle: "Good",
-        rating_color: "9ACD32",
-        votes: "194",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "3.9",
-            reviewCount: "167",
-            reviewTextSmall: "167 Reviews",
-            subtext: "167 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "3.9",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "3.9",
-            reviewCount: "27",
-            reviewTextSmall: "27 Reviews",
-            subtext: "27 Delivery Reviews",
-            color: "#E23744",
-            ratingV2: "3.9",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,700 for two",
-      },
-      cfo: {
-        text: "₹400 for one",
-      },
-      locality: {
-        name: "Fortune Park BBD, Lucknow",
-        address: "Fortune Park BBD, Ranapratap Marg, Hazratganj, Lucknow",
-        localityUrl: "lucknow/restaurants/in/fortune-park-bbd",
-      },
-      timing: {
-        text: "Closes in 27 minutes",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/continental/",
-          name: "Continental",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/fast-food/",
-          name: "Fast Food",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/desserts/",
-          name: "Desserts",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,700 for two",
-      },
-    },
-    order: [],
-    gold: {
-      text: "Pro - Get 25% off",
-    },
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/orchid-fortune-park-bbd-hazratganj/info",
-      clickActionDeeplink: "",
-    },
-    distance: "1.4 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18574816","element_type":"listing","rank":34}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/orchid-fortune-park-bbd-hazratganj/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 800932,
-      name: "Cheer Peer - The Metropolitan Club",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/2/800932/c484ae4d2d9a5b339fbe67d668fe29a7_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/2/800932/c484ae4d2d9a5b339fbe67d668fe29a7_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/2/800932/3c9779b7dbfb3d962493230ecec11a8c_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "4.0",
-        rating_text: "4.0",
+        aggregate_rating: "4.1",
+        rating_text: "4.1",
         rating_subtitle: "Very Good",
         rating_color: "5BA829",
-        votes: "237",
-        subtext: "REVIEWS",
-        is_new: false,
-      },
-      ratingNew: {
-        newlyOpenedObj: null,
-        suspiciousReviewObj: null,
-        ratings: {
-          DINING: {
-            rating_type: "DINING",
-            rating: "4.0",
-            reviewCount: "237",
-            reviewTextSmall: "237 Reviews",
-            subtext: "237 Dining Reviews",
-            color: "#1C1C1C",
-            ratingV2: "4.0",
-            subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
-            bgColorV2: {
-              type: "green",
-              tint: "600",
-            },
-          },
-          DELIVERY: {
-            rating_type: "DELIVERY",
-            rating: "",
-            reviewCount: "0",
-            reviewTextSmall: "0 Reviews",
-            subtext: "Does not offer Delivery",
-            color: "",
-            ratingV2: "-",
-            subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
-            bgColorV2: {
-              type: "grey",
-              tint: "500",
-            },
-            newOnDelivery: false,
-          },
-        },
-      },
-      cft: {
-        text: "₹1,500 for two",
-      },
-      cfo: {
-        text: "₹400 for one",
-      },
-      locality: {
-        name: "Metropolitan Club, Gomti Nagar, Lucknow",
-        address:
-          "CP 134, Metropolitan Club, Viraj Khand, Near Sahara Hospital, Gomti Nagar, Lucknow",
-        localityUrl: "lucknow/restaurants/in/metropolitan-clubs-gomti-nagar",
-      },
-      timing: {
-        text: "Opens tomorrow at 11:30am",
-        color: "#ab000d",
-      },
-      cuisine: [
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/mughlai/",
-          name: "Mughlai",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
-        },
-        {
-          deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
-          name: "Beverages",
-        },
-      ],
-      should_ban_ugc: false,
-      costText: {
-        text: "₹1,500 for two",
-      },
-    },
-    order: [],
-    gold: {
-      text: "Pro - Get 20% off",
-    },
-    takeaway: [],
-    cardAction: {
-      text: "",
-      clickUrl: "/lucknow/cheer-peer-the-metropolitan-club-gomti-nagar/info",
-      clickActionDeeplink: "",
-    },
-    distance: "7.6 km",
-    isPromoted: false,
-    promotedText: "",
-    trackingData: [
-      {
-        table_name: "zsearch_events_log",
-        payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"800932","element_type":"listing","rank":35}',
-        event_names: {
-          tap: '{"action":"tap"}',
-          impression: '{"action":"impression"}',
-        },
-      },
-    ],
-    allCTA: [
-      {
-        type: "booking_cta",
-        text: "Book a Table",
-        clickUrl: "/lucknow/cheer-peer-the-metropolitan-club-gomti-nagar/book",
-      },
-    ],
-    promoOffer: "",
-    checkBulkOffers: false,
-    bulkOffers: [],
-    isDisabled: false,
-    bottomContainers: [],
-  },
-  {
-    type: "restaurant",
-    info: {
-      resId: 800922,
-      name: "EOS Bar & Bistro- Hotel Levana",
-      image: {
-        url: "https://b.zmtcdn.com/data/pictures/2/800922/6238f47ada44afffa00bd51a9830bb0d_featured_v2.jpg",
-        urlWithParams:
-          "https://b.zmtcdn.com/data/pictures/2/800922/6238f47ada44afffa00bd51a9830bb0d_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
-      },
-      o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/2/800922/90b16ad2c6144901b58160494efe4850_o2_featured_v2.jpg",
-      },
-      rating: {
-        has_fake_reviews: 0,
-        aggregate_rating: "3.8",
-        rating_text: "3.8",
-        rating_subtitle: "Good",
-        rating_color: "9ACD32",
         votes: "377",
         subtext: "REVIEWS",
         is_new: false,
@@ -3242,87 +1502,254 @@ export const night = [
         ratings: {
           DINING: {
             rating_type: "DINING",
-            rating: "4.1",
-            reviewCount: "333",
-            reviewTextSmall: "333 Reviews",
-            subtext: "333 Dining Reviews",
+            rating: "4.2",
+            reviewCount: "348",
+            reviewTextSmall: "348 Reviews",
+            subtext: "348 Dining Reviews",
             color: "#1C1C1C",
-            ratingV2: "4.1",
+            ratingV2: "4.2",
             subtitle: "DINING",
-            sideSubTitle: "Dining Reviews",
+            sideSubTitle: "Dining Ratings",
             bgColorV2: {
               type: "green",
               tint: "700",
             },
+            newOnDining: false,
           },
           DELIVERY: {
             rating_type: "DELIVERY",
-            rating: "3.5",
-            reviewCount: "44",
-            reviewTextSmall: "44 Reviews",
-            subtext: "44 Delivery Reviews",
+            rating: "4.0",
+            reviewCount: "29",
+            reviewTextSmall: "29 Reviews",
+            subtext: "29 Delivery Reviews",
             color: "#E23744",
-            ratingV2: "3.5",
+            ratingV2: "4.0",
             subtitle: "DELIVERY",
-            sideSubTitle: "Delivery Reviews",
+            sideSubTitle: "Delivery Ratings",
             bgColorV2: {
               type: "green",
-              tint: "500",
+              tint: "700",
             },
             newOnDelivery: false,
           },
         },
       },
       cft: {
-        text: "₹2,000 for two",
+        text: "₹2,500 for two",
       },
       cfo: {
-        text: "₹400 for one",
+        text: "₹1,000 for one",
       },
       locality: {
-        name: "Hotel Levana, Hazratganj, Lucknow",
-        address: "Hotel Levana, 3rd Floor, 72, MG Marg, Hazratganj, Lucknow",
-        localityUrl: "lucknow/restaurants/in/hotel-levana-hazratganj",
+        name: "Jubilee Hills, Hyderabad",
+        address:
+          "Plot 566, 3rd Floor, 4th Terracs, Road 92, Jubilee Hills, Hyderabad",
+        localityUrl: "hyderabad/jubilee-hills-restaurants",
       },
       timing: {
-        text: "Temporarily closed, will be back soon!",
-        color: "",
+        text: "Opens at 12:30pm",
+        color: "#ab000d",
       },
       cuisine: [
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/finger-food/",
-          name: "Finger Food",
-        },
-        {
-          deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/continental/",
+          url: "https://www.zomato.com/hyderabad/restaurants/continental/",
           name: "Continental",
         },
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
-        },
-        {
-          deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
+          url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
           name: "Chinese",
         },
         {
           deeplink:
-            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/thai/",
-          name: "Thai",
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
+          name: "Beverages",
         },
       ],
       should_ban_ugc: false,
       costText: {
-        text: "₹2,000 for two",
+        text: "₹2,500 for two",
+      },
+    },
+    order: [],
+    gold: {
+      instant: 30,
+      welcome_offer: false,
+      gold_offer: false,
+      text: "Flat",
+      offerValue: "30% OFF",
+      isGoldIcon: false,
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/hyderabad/fly-feel-the-high-1-jubilee-hills/info",
+      clickActionDeeplink: "",
+    },
+    distance: "8.5 km",
+    isPromoted: true,
+    promotedText: "Promoted",
+    trackingData: [
+      {
+        table_name: "jadtracking",
+        payload:
+          '{"banner_id":"7517937","bzone":"0","campaign_id":"16486806","category_id":"1","location_type":"city","location_id":"6","display_page":"dineout_home","entity_type":"RESTAURANT","entity_id":"19822960","isNewAd":"34","ad_position":"19","slider_position":"19","slider_sequence":"19","creative_id":"0","collection_id":"0","data":"{\\"type\\":\\"boost\\",\\"original_rank\\":156,\\"boosted_rank\\":19,\\"ordering_parameter_value\\":{\\"ads_ctr\\":\\"0.018439\\",\\"cost_for_two_ctr\\":\\"0\\",\\"distance\\":\\"8.596263885498047\\",\\"organic_ctr\\":\\"0.007634\\",\\"popularity_score\\":\\"0\\",\\"popularity_score_source\\":\\"default\\",\\"target_left\\":\\"540\\"},\\"ordering_parameter_normalised_value\\":{\\"ads_ctr\\":\\"0.2843340785691472\\",\\"cost_for_two_ctr\\":\\"0\\",\\"cost_per_unit\\":\\"0.6730575176589302\\",\\"distance\\":\\"0.9013848549422272\\",\\"organic_ctr\\":\\"0.017898059732315837\\",\\"popularity_score\\":\\"0\\",\\"target_left\\":\\"0.2087824351297405\\"},\\"search_id\\":\\"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f\\",\\"section_name\\":\\"more\\",\\"total_score\\":0.38075253113979496}","subzone_id":"0"}',
+        event_names: {
+          tap: '{"action":"click"}',
+          impression: '{"action":"impression"}',
+          served: '{"action":"serve"}',
+        },
+      },
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19822960","element_type":"listing","rank":19,"metadata":{"is_ad":"true"}}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19797553,
+      name: "AnTeRa Kitchen And Bar",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/3/19797553/c398782475e8bc2f829915819a1b79f0_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/3/19797553/c398782475e8bc2f829915819a1b79f0_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/3/19797553/78fd08c1c1d54145a38515c8911bb97b_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.3",
+        rating_text: "4.3",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "10.8K",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.4",
+            reviewCount: "6,896",
+            reviewTextSmall: "6,896 Reviews",
+            subtext: "6,896 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.4",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDining: false,
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "3,856",
+            reviewTextSmall: "3,856 Reviews",
+            subtext: "3,856 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,500 for two",
+      },
+      cfo: {
+        text: "₹600 for one",
+      },
+      locality: {
+        name: "Jubilee Hills, Hyderabad",
+        address: "Plot 265, G/A, Road 10, Jubilee Hills, Hyderabad",
+        localityUrl: "hyderabad/jubilee-hills-restaurants",
+      },
+      timing: {
+        text: "Opens at 12noon",
+        color: "#ab000d",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/south-indian/",
+          name: "South Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/biryani/",
+          name: "Biryani",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,500 for two",
       },
     },
     order: [],
@@ -3330,17 +1757,171 @@ export const night = [
     takeaway: [],
     cardAction: {
       text: "",
-      clickUrl: "/lucknow/eos-bar-bistro-hotel-levana-hazratganj/info",
+      clickUrl: "/hyderabad/antera-kitchen-and-bar-jubilee-hills/info",
       clickActionDeeplink: "",
     },
-    distance: "1.9 km",
+    distance: "10.1 km",
     isPromoted: false,
     promotedText: "",
     trackingData: [
       {
         table_name: "zsearch_events_log",
         payload:
-          '{"search_id":"14afd6f5-bdc9-4f55-bac0-1515a91b62c0","location_type":"delivery_cell","location_id":"4151190155136335872","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"800922","element_type":"listing","rank":36}',
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19797553","element_type":"listing","rank":20}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 93803,
+      name: "MOB",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/3/93803/bd8df10c7ab18c53e24a525cd53bc871_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/3/93803/bd8df10c7ab18c53e24a525cd53bc871_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/3/93803/0768080d5e7feed70084ba7ba2abd7a3_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.5",
+        rating_text: "4.5",
+        rating_subtitle: "Excellent",
+        rating_color: "3F7E00",
+        votes: "1,309",
+        subtext: "REVIEW",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.6",
+            reviewCount: "1,273",
+            reviewTextSmall: "1,273 Reviews",
+            subtext: "1,273 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.6",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+            newOnDining: false,
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.3",
+            reviewCount: "36",
+            reviewTextSmall: "36 Reviews",
+            subtext: "36 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.3",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Ratings",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹4,000 for two",
+      },
+      cfo: {
+        text: "₹1,600 for one",
+      },
+      locality: {
+        name: "Film Nagar, Hyderabad",
+        address:
+          "2nd Floor, Aryans, Near Apollo Hospital, Road 92, Film Nagar, Hyderabad",
+        localityUrl: "hyderabad/film-nagar-restaurants",
+      },
+      timing: {
+        text: "Opens at 12noon",
+        color: "#ab000d",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/hyderabad/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
+          url: "https://www.zomato.com/hyderabad/restaurants/finger-food/",
+          name: "Finger Food",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹4,000 for two",
+      },
+    },
+    order: [],
+    gold: {
+      instant: 10,
+      welcome_offer: false,
+      gold_offer: false,
+      text: "Flat",
+      offerValue: "10% OFF",
+      isGoldIcon: false,
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/hyderabad/mob-film-nagar/info",
+      clickActionDeeplink: "",
+    },
+    distance: "8.4 km",
+    isPromoted: true,
+    promotedText: "Promoted",
+    trackingData: [
+      {
+        table_name: "jadtracking",
+        payload:
+          '{"banner_id":"7597878","bzone":"0","campaign_id":"16567433","category_id":"1","location_type":"city","location_id":"6","display_page":"dineout_home","entity_type":"RESTAURANT","entity_id":"93803","isNewAd":"34","ad_position":"21","slider_position":"21","slider_sequence":"21","creative_id":"0","collection_id":"0","data":"{\\"type\\":\\"boost\\",\\"original_rank\\":180,\\"boosted_rank\\":21,\\"ordering_parameter_value\\":{\\"ads_ctr\\":\\"0.011317\\",\\"cost_for_two_ctr\\":\\"0\\",\\"distance\\":\\"8.521050453186035\\",\\"organic_ctr\\":\\"0.010608\\",\\"popularity_score\\":\\"0\\",\\"popularity_score_source\\":\\"default\\",\\"target_left\\":\\"644\\"},\\"ordering_parameter_normalised_value\\":{\\"ads_ctr\\":\\"0\\",\\"cost_for_two_ctr\\":\\"0\\",\\"cost_per_unit\\":\\"1\\",\\"distance\\":\\"0.9512248452354771\\",\\"organic_ctr\\":\\"0.04714466942677038\\",\\"popularity_score\\":\\"0\\",\\"target_left\\":\\"0.2502994011976048\\"},\\"search_id\\":\\"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f\\",\\"section_name\\":\\"more\\",\\"total_score\\":0.35674561186079634}","subzone_id":"0"}',
+        event_names: {
+          tap: '{"action":"click"}',
+          impression: '{"action":"impression"}',
+          served: '{"action":"serve"}',
+        },
+      },
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"c3cf6b96-e291-4a6f-bc54-34f54ca75d8f","location_type":"delivery_cell","location_id":"4308704762854899712","page_type":"nightlife","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"93803","element_type":"listing","rank":21,"metadata":{"is_ad":"true"}}',
         event_names: {
           tap: '{"action":"tap"}',
           impression: '{"action":"impression"}',
