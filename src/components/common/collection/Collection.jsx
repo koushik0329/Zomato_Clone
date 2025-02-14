@@ -1,5 +1,5 @@
 import React from "react";
-import "./Collection.css";
+import "./collection.css";
 import NextArrow from "../carousel/NextArrow";
 import PrevArrow from "../carousel/PrevArrow";
 import Slider from "react-slick";

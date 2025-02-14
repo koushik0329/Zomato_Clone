@@ -1,5 +1,5 @@
 import React from "react";
-import "./Filter.css";
+import "./filter.css";
 import FilterItem from "./filterItem/FilterItem";
 
 const Filter = ({ filterlist }) => {
