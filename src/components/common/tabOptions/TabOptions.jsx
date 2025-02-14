@@ -1,5 +1,5 @@
 import React from "react";
-import "./TabOptions.css";
+import "./tabOptions.css";
 
 const tabs = [
   {
